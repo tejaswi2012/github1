@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+    <html lang="en">
+        <head>
+            <title>UPDATE</title>
+            <link rel="stylesheet" href="../static/css/style.css">
+        </head>
+        <body>
+            <div class="banner-section">
+                <img src="../static/images/banner.jpg" alt="">
+            </div>
+            <div class="update-form">
+                <form action="/update-form" method="post">
+                    <input type="number" name="_id" placeholder="ID">
+                    <select name="field">
+                        <option value="sname">Name</option>
+                        <option value="email">Email</option>
+                        <option value="phone">Mobile No</option>
+                        <option value="percentage">Percentage</option>
+                        <option value="srank">Rank</option>
+                        <option value="course">Course Interested</option>
+                        <option value="address">Address</option>
+                    </select>
+                    <input type="text" name="new_value" placeholder="NEW DATA">
+                    <input type="submit" value="UPDATE">
+                </form>
+            </div>
+        </body>
+    </html>

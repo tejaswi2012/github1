@@ -1,0 +1,157 @@
+.banner-section{
+    float:left;
+    width:100%;
+}
+.banner-section img{
+    float:left;
+    width:100%;
+}
+.hero-section{
+    float:left;
+    width:100%;
+}
+.sub-hero-section-1{
+    float:left;
+    width:50%;
+}
+.sub-hero-section-1 img{
+    float:left;
+    width:75%;
+}
+.sub-hero-section-2{
+    float:left;
+    width:50%;
+}
+.sub-hero-section-2 img{
+    float:right;
+    width:100%;
+}
+.sub-hero-section-2 h1 {
+    text-align: center;
+    font-family: 'Rubik Doodle Shadow',system-ui;
+    font-weight: 800;
+    font-size: 42px;
+    letter-spacing: 4px;
+}
+.gallery-section{
+    float:left;
+    width:100%;
+}
+.sub-gallery{
+    float:left;
+    text-align: center;
+    width:100%;
+    font-family: 'Rubik Doodle Shadow',system-ui;
+}
+.gallery-pics{
+    float:left;
+    width:100%;
+}
+.gallery-pics img{
+    width:19.7%;
+}
+#pic{
+    width: 17.5%;
+}
+.contact-menu{
+    float:left;
+    width:100%;
+}
+.menu-img{
+    float:left;
+    width:50%;
+}
+.menu-img img{
+    width:50%;
+    margin:10% 0% 0% 25%;
+}
+.menu-content{
+    float:left;
+    width:40%;
+}
+.menu-content h1{
+    font-family: 'Rubik Doodle Shadow',system-u;
+    letter-spacing: 4px;
+    margin:8% 20% 0% 0%;
+}
+.mob{
+    margin: 2% 0% 0% 55%;
+}
+.footer-section{
+    float:left;
+    width:100%;
+    background-color:rgb(55,54,54);
+    padding:3% 0% 3% 0%;
+}
+.address-section{
+    float:left;
+    width:20%;
+    margin:0% 0% 0% 10%;
+    border-style: solid;
+    border-color: white;
+    color:white;
+    padding:2.1% 0% 2.1% 0%;
+}
+.address-section h2{
+    margin:1% 0% 0% 4%;
+}
+.address-section p{
+    margin:0% 0% 0% 4%;
+}
+.form-section{
+    float:left;
+    width:20%;
+    margin:0% 0% 0% 10%;
+    border-style: solid;
+    border-color: white;
+    color:white;
+    padding:1.5% 0% 1.5% 0%;
+}
+.form-section input,.form-section select{
+    float:left;
+    width:85%;
+    margin:1% 5% 1% 5%;
+}
+.form-section button{
+    float:left;
+    width:45%;
+    margin:1% 5% 1% 5%;
+}
+.contact-section{
+    float:left;
+    width:20%;
+    margin:0% 3% 0% 10%;
+    border-style: solid;
+    border-color: white;
+    color:white;
+}
+.copyright-section{
+    float:left;
+    width:100%;
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+.register-menu{
+    float:left;
+    width:40%;
+    margin:10% 15% 0% 25%;
+}
+.top-btn,.down-btn{
+    float:left;
+    width:100%;
+    margin-left: 10%;
+    padding:5% 0% 5% 5%;
+}
+.top-btn a,.down-btn a{
+    float:left;
+    width:25%;
+    border-style:solid;
+    border-color: black;
+    color:black;
+    padding:2% 2% 2% 2%;
+    margin:0% 12% 0% 0%;
+    text-decoration: none;
+    text-align: center;
+}
+    
